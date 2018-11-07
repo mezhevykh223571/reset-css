@@ -1,13 +1,13 @@
 {
   "name": "@mezhevykh/reset-css",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "$ npm i @mezhevykh/reset-css",
   "style": "dist/reset.min.css",
+  "author": "Evgeny Mezhevykh",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mezhevykh223571/reset-css.git"
   },
-  "author": "Evgeny Mezhevykh",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mezhevykh223571/reset-css/issues"
