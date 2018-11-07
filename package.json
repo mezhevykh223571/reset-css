@@ -1,7 +1,7 @@
 {
-  "name": "@mezhevykh/reset-scss",
-  "version": "1.0.0",
-  "description": "$ npm i @mezhevykh/reset-scss",
+  "name": "@mezhevykh/reset-styles",
+  "version": "1.0.3",
+  "description": "$ npm i @mezhevykh/reset-styles",
   "style": "dist/reset.min.css",
   "author": "Evgeny Mezhevykh",
   "repository": {
@@ -18,5 +18,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "main": "index.js"
+  "main": "index.js",
+  "keywords": []
 }

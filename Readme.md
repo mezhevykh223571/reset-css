@@ -1,19 +1,19 @@
 ## Installation
 
-    $ npm i @mezhevykh/reset-css
+    $ npm i @mezhevykh/reset-styles
 
 ## Usage
 
 HTML
 
 ```html
-<link rel="stylesheet" href="/path/to/reset-css/reset.min.css">
+<link rel="stylesheet" href="/path/to/@mezhevykh/reset-styles/reset.min.css">
 ```
 
 CSS
 
 ```CSS
-@import '/path/to/reset-css/reset.min.css';
+@import '/path/to/@mezhevykh/reset-styles/reset.min.css';
 ```
 
 ## License
