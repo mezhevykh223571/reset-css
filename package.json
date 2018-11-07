@@ -1,6 +1,6 @@
 {
-  "name": "@mezhevykh/reset-scss",
-  "version": "1.0.0",
+  "name": "@mezhevykh/reset-css",
+  "version": "1.0.1",
   "description": "$ npm i @mezhevykh/reset-css",
   "style": "dist/reset.min.css",
   "repository": {
