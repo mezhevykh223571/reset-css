@@ -1,30 +1,22 @@
 {
-  "name": "reset-css",
+  "name": "@mezhevykh/reset-scss",
   "version": "1.0.0",
+  "description": "$ npm i @mezhevykh/reset-css",
+  "style": "dist/reset.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mezhevykh223571/reset-css.git"
+  },
   "author": "Evgeny Mezhevykh",
   "license": "MIT",
-  "dependencies": {
-    "@babel/core": "^7.1.2",
-    "@babel/preset-env": "^7.1.0",
-    "del": "^3.0.0",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^6.0.0",
-    "gulp-babel": "^8.0.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-plumber": "^1.2.0",
-    "gulp-sass": "^4.0.1",
-    "gulp-sourcemaps": "^2.6.4",
-    "run-sequence": "^2.2.1"
+  "bugs": {
+    "url": "https://github.com/mezhevykh223571/reset-css/issues"
   },
+  "homepage": "https://github.com/mezhevykh223571/reset-css#readme",
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "sass",
-    "gulp",
-    "npm"
-  ],
-  "main": "gulpfile.js",
-  "description": ""
+  "main": "index.js"
 }
