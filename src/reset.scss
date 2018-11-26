@@ -1,10 +1,12 @@
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  &:after,
-  &:before {
-    box-sizing: border-box;
-  }
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
 }
 
 html, body,
@@ -45,6 +47,7 @@ section {
 html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  box-sizing: border-box;
 }
 
 body {
@@ -95,6 +98,12 @@ table {
   border-spacing: 0;
 }
 
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle; }
+
+
 audio,
 canvas,
 video {
@@ -121,6 +130,7 @@ img {
   border: 0;
   -ms-interpolation-mode: bicubic;
   vertical-align: middle;
+  max-width: 100%;
 }
 
 legend {
@@ -190,7 +200,7 @@ input[type="submit"] {
 
 button,
 input {
-  [disabled] {
+  &[disabled] {
     cursor: default;
   }
 }
