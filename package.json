@@ -1,6 +1,6 @@
 {
   "name": "@mezhevykh/reset-styles",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "$ npm i @mezhevykh/reset-styles",
   "style": "dist/reset.min.css",
   "author": "Evgeny Mezhevykh",
@@ -19,5 +19,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "main": "index.js",
-  "keywords": []
+  "keywords": [
+    "reset-css",
+    "reset-styles",
+    "sass",
+    "css"
+  ]
 }

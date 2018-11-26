@@ -7,13 +7,19 @@
 HTML
 
 ```html
-<link rel="stylesheet" href="/path/to/@mezhevykh/reset-styles/reset.min.css">
+<link rel="stylesheet" href="/path/to/@mezhevykh/reset-styles/dist/reset.min.css">
 ```
 
 CSS
 
-```CSS
-@import '/path/to/@mezhevykh/reset-styles/reset.min.css';
+```css
+@import '/path/to/@mezhevykh/reset-styles/dist/reset.min.css';
+```
+
+SCSS
+
+```scss
+@import '/path/to/@mezhevykh/reset-styles/src/reset.scss';
 ```
 
 ## License
