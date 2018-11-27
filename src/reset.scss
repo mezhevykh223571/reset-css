@@ -3,12 +3,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
-
 html, body,
 p, span, h1, h2, h3, h4, h5, h6,
 dl, dt, dd, ol, ul, li,
@@ -48,6 +42,12 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
 }
 
 body {
@@ -166,6 +166,16 @@ textarea {
   -webkit-appearance: none;
   -moz-appearance: none;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+a,
+button,
+input,
+select,
+textarea,
+label,
+summary {
+  touch-action: manipulation;
 }
 
 a,
