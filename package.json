@@ -1,6 +1,6 @@
 {
   "name": "@mezhevykh/reset-styles",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "$ npm i @mezhevykh/reset-styles",
   "style": "dist/reset.min.css",
   "author": "Evgeny Mezhevykh",
