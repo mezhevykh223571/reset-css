@@ -1,14 +1,15 @@
 {
   "name": "@mezhevykh/reset-styles",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "$ npm i @mezhevykh/reset-styles",
   "style": "dist/reset.min.css",
+  "main": "dist/reset.min.css",
   "author": "Evgeny Mezhevykh",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mezhevykh223571/reset-css.git"
   },
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mezhevykh223571/reset-css/issues"
   },
@@ -18,11 +19,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "main": "index.js",
   "keywords": [
+    "reset",
     "reset-css",
     "reset-styles",
+    "css",
+    "cssreset",
+    "css-reset",
+    "stylereset",
     "sass",
-    "css"
+    "scss"
   ]
 }
