@@ -1,5 +1,5 @@
 [![npm](https://img.shields.io/npm/v/@mezhevykh/reset-styles.svg?style=flat-square)](https://www.npmjs.com/package/@mezhevykh/reset-styles)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: MIT](https://img.shields.io/github/license/mezhevykh223571/reset-css.svg?style=flat-square)](https://opensource.org/licenses/MIT) 
 [![](https://data.jsdelivr.com/v1/package/npm/@mezhevykh/reset-styles/badge)](https://www.jsdelivr.com/package/npm/@mezhevykh/reset-styles)
 
 ## Installation
@@ -17,7 +17,7 @@ HTML
 CSS
 
 ```css
-@import "https://cdn.jsdelivr.net/npm/@mezhevykh/reset-styles@1.0.6/dist/reset.min.css";
+@import "https://cdn.jsdelivr.net/npm/@mezhevykh/reset-styles/dist/reset.min.css";
 ```
 
 SCSS
