@@ -169,10 +169,15 @@ pre {
  * 3) Image alignment.
 */
 img {
+  max-width: 100%;
   border: 0; /* 1 */
   -ms-interpolation-mode: bicubic; /* 2 */
   vertical-align: middle; /* 3 */
+}
+
+video {
   max-width: 100%;
+  vertical-align: middle;
 }
 
 /**

@@ -11,7 +11,7 @@
 HTML
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mezhevykh/reset-styles/dist/reset.min.css" integrity="sha256-e3plK3+jFK4iZ+ubV1tD9KV+HUo0JgCphtdhLrM5ZPg=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mezhevykh/reset-styles/dist/reset.min.css" integrity="sha256-m5JjG6Kri+YMDzTDOVQiGArkLfwglfPQ+1o11pUy978=" crossorigin="anonymous">
 ```
 
 CSS
